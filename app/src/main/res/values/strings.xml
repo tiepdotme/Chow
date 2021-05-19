@@ -1,28 +1,28 @@
 <resources>
-    <string name="app_name">Chow</string>
-    <string name="action_logout">Logout</string>
+    <string name="app_name">Linh Restaurant</string>
+    <string name="action_logout">Thoát</string>
     <string name="hint_email">Email</string>
-    <string name="hint_password">Password</string>
-    <string name="hint_confirm_password">Confirm password</string>
-    <string name="hint_first_name">First name</string>
-    <string name="hint_last_name">Last name</string>
-    <string name="hint_number">Mobile number</string>
-    <string name="hint_delivery_address">Delivery address</string>
-    <string name="signup_text">Create Account</string>
-    <string name="button_login">Login</string>
-    <string name="button_signup">Sign Up</string>
-    <string name="button_cancel">Cancel</string>
-    <string name="text_chow">Chow</string>
-    <string name="login_facebook">Login with Facebook!</string>
-    <string name="login_error_message">An error occurred, Please ensure you have a network connection and try again!
+    <string name="hint_password">Mật khẩu</string>
+    <string name="hint_confirm_password">Xác nhận mật khẩu</string>
+    <string name="hint_first_name">Tên</string>
+    <string name="hint_last_name">Họ</string>
+    <string name="hint_number">Số điện thoại</string>
+    <string name="hint_delivery_address">Địa chỉ giao hàng</string>
+    <string name="signup_text">Tạo tài khoản</string>
+    <string name="button_login">Đăng nhập</string>
+    <string name="button_signup">Đăng ký</string>
+    <string name="button_cancel">Hủy bỏ</string>
+    <string name="text_chow">Linh</string>
+    <string name="login_facebook">Đăng nhập bằng Facebook!</string>
+    <string name="login_error_message">Có lỗi xảy ra, Hãy chắc rằng bạn đang kết nối mạng và thử lại!
     </string>
-    <string name="login_error_title">Oops!</string>
-    <string name="login_phone">Sign in with Phone</string>
-    <string name="sign_in_text">To continue with Chow, you have to sign in</string>
-    <string name="terms_and_policy_text">By signing in, you agree to our Terms \nand Privacy Policy</string>
-    <string name="done">Done</string>
-    <string name="name_hint">Name</string>
-    <string name="restaurant_name_hint">Restaurant Name</string>
+    <string name="login_error_title">Lỗi!</string>
+    <string name="login_phone">Đăng nhập bằng điện thoại</string>
+    <string name="sign_in_text">Để tiếp tục, bạn cần đăng nhập</string>
+    <string name="terms_and_policy_text">Khi đăng nhập, bạn đồng ý với Các điều khoản \nvà quy định sử dụng dịch vụ</string>
+    <string name="done">Hoàn thành</string>
+    <string name="name_hint">Tên</string>
+    <string name="restaurant_name_hint">Tên nhà hàng</string>
     <string name="name_confirmation_text">Your name and address will be attached to your profile,
         and will be shown to vendors for delivery purposes.
     </string>
