@@ -23,19 +23,18 @@
     <string name="done">Hoàn thành</string>
     <string name="name_hint">Tên</string>
     <string name="restaurant_name_hint">Tên nhà hàng</string>
-    <string name="name_confirmation_text">Your name and address will be attached to your profile,
-        and will be shown to vendors for delivery purposes.
+    <string name="name_confirmation_text">Họ tên cũng như địa chỉ của bạn, sẽ hiện thị với các nhà cung cấp,
+        và được sử dụng để làm địa chỉ giao nhận sản phẩm mà bạn đặt hàng.
     </string>
-    <string name="info_confirmation_text">Information provided will be attached to your profile,
-        and will be shown to users and customers.
+    <string name="info_confirmation_text">Thông tin cung cấp sẽ được gửi tới người dùng và khách hàng.
     </string>
-    <string name="additional_details">Additional Details</string>
-    <string name="restaurants">Restaurants</string>
-    <string name="menu">Menu</string>
+    <string name="additional_details">Thông tin bổ sung</string>
+    <string name="restaurants">Nhà hàng</string>
+    <string name="menu">Thực đơn</string>
     <string name="profile">Profile</string>
-    <string name="orders">Orders</string>
-    <string name="content_desc_restaurant_image">Restaurant Image</string>
-    <string name="address">Address</string>
+    <string name="orders">Đơn hàng</string>
+    <string name="content_desc_restaurant_image">Hình ảnh nhà hàng</string>
+    <string name="address">Địa chỉ</string>
     <string name="call_outlet">Call Outlet</string>
     <string name="get_directions">Get Directions</string>
     <string name="no_offers">We have nothing at this time.</string>
